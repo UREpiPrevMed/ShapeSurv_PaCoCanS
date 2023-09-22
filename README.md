@@ -19,4 +19,4 @@ Published manuscripts:
 <br><br>
 <br><br>
 <br><br>
-<samp>**Cancer research for cancer prevention.**</samp>
+<samp>**Cancer research for cancer prevention**</samp>
