@@ -8,6 +8,11 @@ This **obesity paradox** makes it difficult to formulate clear recommendations f
 <br></br>
 We recently derived new [body shape phenotypes](https://doi.org/10.1038/s41416-022-02071-3) that were associated with **17 different cancer types**.
 <br>In this project, we will further investigate how body shape is linked to survival and risk of second primary cancer.</br>
+
+Published manuscripts:
+- [Multi-Trait Body Shape Phenotypes and Breast Cancer Risk in Postmenopausal Women: A Causal Mediation Analysis in the UK Biobank Cohort](https://doi.org/10.1007/s44197-024-00226-4)
+- [Tissue-specific genetic variation suggests distinct molecular pathways between body shape phenotypes and colorectal cancer](https://doi.org/10.1126/sciadv.adj1987)
+
 ##  PaCoCanS
 Physical (in)activity and **cardiometabolic disease** contribute to cancer risk and prognosis.
 However, it is still unclear whether cancer risk is equally influenced by physical activity and physical inactivity in people with and without cardiometabolic disease.
@@ -19,4 +24,4 @@ Published manuscripts:
 <br><br>
 <br><br>
 <br><br>
-<samp>**Cancer research for cancer prevention**</samp>
+<samp>****</samp>
